@@ -164,11 +164,5 @@
       "adminComment": null
     }
   ],
-  "sessions": [
-    {
-      "id": "0deb2623-4893-4b1c-9a29-afee8fbec698",
-      "employeeId": "EMP123",
-      "expiresAt": 1783226262727
-    }
-  ]
+  "sessions": []
 }
