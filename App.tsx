@@ -10,7 +10,7 @@ import {
   CheckCircle, TrendingUp, Download, MapPin,
   LogOut, HelpCircle, Star, UserCheck, Clock,
   ChevronRight, X, Mail, Phone, Home, Briefcase as BriefcaseIcon,
-  User, Building2, Edit2, Trash2, ChevronLeft,
+  User, Building2, , Trash2, ChevronLeft,
 } from "lucide-react";
 
 // ─── TYPES ─────────────────────────────────────────────────────────────────────
